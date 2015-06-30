@@ -1,0 +1,20 @@
+{
+  "name": "@jygsaw/how-to-npm",
+  "version": "1.0.1",
+  "description": "npm install -g how-to-npm how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jygsaw/how-to-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jygsaw/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jygsaw/how-to-npm#readme",
+  "dependencies": {}
+}
